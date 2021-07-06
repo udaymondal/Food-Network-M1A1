@@ -144,3 +144,10 @@ cite img{
 .section-form h2{
 	color: rgb(71, 46, 46);
 }
+.grid-2{
+	width: 25%;
+}
+.section-form 
+.col{
+	margin: 2%;
+}
