@@ -11,7 +11,7 @@ h1{
 .flexible-container{
 	display: flex;
 	margin-bottom: 100px;
-    height: 500px;
+    height: 420px;
 }
 .half-width{
 	width: 50%;
