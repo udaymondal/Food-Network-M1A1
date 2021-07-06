@@ -137,3 +137,10 @@ cite img{
 .grid-3{
 	width: 25%; 
 }
+.contact-form{
+    width: 60%;
+    margin: 0 auto;
+}
+.section-form h2{
+	color: rgb(71, 46, 46);
+}
