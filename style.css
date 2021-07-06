@@ -73,3 +73,7 @@ p{
 .recipies-col p{
 	text-align: left;
 }
+.recipies-col h3{
+	text-align:center;
+	font-size: 25px;
+}
